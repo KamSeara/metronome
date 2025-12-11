@@ -44,7 +44,7 @@ Nenhum framework, nenhuma biblioteca externa. Totalmente leve e rápido.
 ## 🌐 Versão online
 
 Acesse aqui:  
-👉 **
+👉 *https://kamseara.github.io/metronomo/*
 
 ## ❤️ Autor
 
