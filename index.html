@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metrônomo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'> <text y='0.9em' font-size='90'>🎻</text> </svg>">
+
+</head>
+<body>
+
+<div class="main-container">
+
+    <h1 class="titulo">🎵 Metrônomo 🎵</h1>
+
+    <p id="mensagem" class="mensagem">Pronto para começar!</p>
+
+    <div class="controls-grid">
+
+        <!-- BPM -->
+        <div class="control-card">
+            <label>BPM:</label>
+            <input type="number" id="bpmInput" value="100" min="20" max="300">
+            <input type="range" id="bpmRange" min="20" max="300" value="100">
+        </div>
+
+        <!-- Compasso -->
+        <div class="control-card">
+            <label>Compasso:</label>
+            <select id="compassoSelect">
+                <option value="4" selected>4/4</option>
+                <option value="3">3/4</option>
+                <option value="2">2/4</option>
+                <option value="6">6/8</option>
+            </select>
+        </div>
+
+        <!-- Subdivisão -->
+        <div class="control-card">
+            <label>Subdivisão por tempo:</label>
+            <select id="subdivisaoSelect">
+                <option value="1" selected>1 (Sem subdivisão)</option>
+                <option value="2">2 (Colcheias)</option>
+                <option value="3">3 (Ternário)</option>
+                <option value="4">4 (Semicolcheias)</option>
+            </select>
+        </div>
+
+        <!-- Som -->
+        <div class="control-card">
+            <label>Som:</label>
+            <select id="somSelect">
+                <option value="digital" selected>Digital</option>
+                <option value="wood">Madeira</option>
+                <option value="click">Click</option>
+            </select>
+        </div>
+
+        <!-- Volume -->
+        <div class="control-card">
+            <label>Volume geral:</label>
+            <input type="range" id="volumeGeral" min="0" max="1" step="0.01" value="0.7">
+        </div>
+
+        <!-- Vibração -->
+        <div class="control-card">
+            <label>Vibração (celular):</label>
+            <select id="vibracaoSelect">
+                <option value="off" selected>Desligada</option>
+                <option value="on">Ligada</option>
+            </select>
+        </div>
+
+    </div>
+
+    <!-- Esfera -->
+    <div class="beat-ball" id="beatBall" aria-hidden="true"></div>
+
+    <div class="play-area" style="text-align:center; margin-top:44px;">
+        <button id="startStopBtn" class="btn-start">▶ Iniciar</button>
+    </div>
+
+</div>
+
+<script src="metronome.js"></script>
+</body>
+</html>
