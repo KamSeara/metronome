@@ -41,4 +41,15 @@ Nenhum framework, nenhuma biblioteca externa. Totalmente leve e rápido.
 <img width="1875" height="1060" alt="image" src="https://github.com/user-attachments/assets/36c19017-efc4-438f-be46-bca1046d324e" />
 
 
+## 🌐 Versão online
+
+Acesse aqui:  
+👉 **
+
+## ❤️ Autor
+
+Projeto desenvolvido com muito carinho
+por **Kamilly Seara**.
+
+
 
