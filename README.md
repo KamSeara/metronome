@@ -1,55 +1,56 @@
-#  🎻 Metronomo Visual
+# 🎻 Visual Metronome
 
-Um metrônomo moderno, visual e totalmente responsivo, desenvolvido em **HTML, CSS e JavaScript puro**.  
-Ele muda o fundo em degradê quando está tocando, possui uma esfera de batida animada e controles simples e intuitivos.
-
----
-
-## ✨ Funcionalidades
-
-- 🎵 **Batida visual** com esfera pulsante  
-- 🌈 **Degradê animado** que acompanha o ritmo  
-- 🎼 **Compassos:** 2/4, 3/4, 4/4 e 6/8  
-- 🎚 **Controle de BPM**  
-- 🔊 **Subdivisões com rótulos**  
-- 📱 Funciona no celular, tablet e desktop
+A modern, visual and fully responsive metronome built using **vanilla HTML, CSS and JavaScript**.  
+It features an animated gradient background while playing, a pulsating beat sphere, and simple, intuitive controls.
 
 ---
 
-## 🚀 Como usar
+## ✨ Features
 
-1. Ajuste o **compasso**  
-2. Escolha o **BPM**  
-3. Selecione a **subdivisão**  
-4. Clique em **Iniciar**  
-5. O fundo começa a animar e a esfera pulsa no tempo da batida  
-6. Clique em **Parar** para voltar ao modo estático
+- 🎵 **Visual beat** with a pulsating sphere  
+- 🌈 **Animated gradient background** synced with the rhythm  
+- 🎼 **Time signatures:** 2/4, 3/4, 4/4 and 6/8  
+- 🎚 **BPM control**  
+- 🔊 **Subdivisions with labels**  
+- 📱 Works on mobile, tablet and desktop  
 
 ---
 
-## 🛠 Tecnologias
+## 🚀 How to use
 
-- **HTML5**
-- **CSS3**
-- **JavaScript vanilla**
+1. Select the **time signature**  
+2. Set the **BPM**  
+3. Choose the **subdivision**  
+4. Click **Start**  
+5. The background starts animating and the sphere pulses with the beat  
+6. Click **Stop** to return to static mode  
 
-Nenhum framework, nenhuma biblioteca externa. Totalmente leve e rápido.
+---
+
+## 🛠 Technologies
+
+- **HTML5**  
+- **CSS3**  
+- **Vanilla JavaScript**
+
+No frameworks, no external libraries. Lightweight and fast.
 
 ---
 
 ## 📸 Preview
-<img width="1875" height="1060" alt="image" src="https://github.com/user-attachments/assets/36c19017-efc4-438f-be46-bca1046d324e" />
 
+<img width="1875" height="1060" alt="Visual Metronome Preview" src="https://github.com/user-attachments/assets/36c19017-efc4-438f-be46-bca1046d324e" />
 
-## 🌐 Versão online
+---
 
-Acesse aqui:  
-👉 *https://kamseara.github.io/metronomo/*
+## 🌐 Live version
 
-## ❤️ Autor
+Access it here:  
+👉 https://kamseara.github.io/metronomo/
 
-Projeto desenvolvido com muito carinho
-por **Kamilly Seara**.
+---
 
+## ❤️ Author
 
-
+Project developed with care by  
+**Kamilly Seara**
