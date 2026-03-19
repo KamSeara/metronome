@@ -46,7 +46,7 @@ No frameworks, no external libraries. Lightweight and fast.
 ## 🌐 Live version
 
 Access it here:  
-👉 https://kamseara.github.io/metronomo/
+👉 https://kamseara.github.io/metronome/
 
 ---
 
