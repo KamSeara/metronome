@@ -11,7 +11,27 @@ Designed to provide a clean and intuitive experience, the application combines s
 
 ---
 
-![Visual Metronome Preview](./images/preview.png)
+## 📸 Preview
+
+<p align="center">
+  <img src="./images/preview.png.jpeg" alt="Visual Metronome Desktop Preview" width="900">
+</p>
+
+<p align="center">
+  <em>Desktop version</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./images/preview-mobile.png.jpeg" alt="Visual Metronome Mobile Preview" width="280">
+</p>
+
+<p align="center">
+  <em>Mobile version</em>
+</p>
+
+---
 
 ## ✨ Features
 
