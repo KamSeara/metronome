@@ -1,56 +1,61 @@
 # 🎻 Visual Metronome
 
-A modern, visual and fully responsive metronome built using **vanilla HTML, CSS and JavaScript**.  
-It features an animated gradient background while playing, a pulsating beat sphere, and simple, intuitive controls.
+A modern, responsive and interactive metronome built with **HTML**, **CSS** and **vanilla JavaScript**.
+
+Designed to provide a clean and intuitive experience, the application combines smooth animations, a dynamic gradient background, visual beat indicators and customizable rhythm settings to create an elegant practice tool for musicians.
+
+## 🚀 Live Demo
+
+> **Click here to try the application:**  
+> 🔗 https://kamseara.github.io/metronome/
 
 ---
+
+![Visual Metronome Preview](./images/preview.png)
 
 ## ✨ Features
 
-- 🎵 **Visual beat** with a pulsating sphere  
-- 🌈 **Animated gradient background** synced with the rhythm  
-- 🎼 **Time signatures:** 2/4, 3/4, 4/4 and 6/8  
-- 🎚 **BPM control**  
-- 🔊 **Subdivisions with labels**  
-- 📱 Works on mobile, tablet and desktop  
+- 🎵 Visual beat indicator with a pulsating sphere
+- 🌈 Animated gradient background synchronized with the beat
+- 🎼 Multiple time signatures (2/4, 3/4, 4/4 and 6/8)
+- 🎚 Adjustable BPM control
+- 🔊 Beat subdivisions with labels
+- 📱 Fully responsive design
+- ⚡ Lightweight and fast
+  
 
----
+## 🛠️ Built With
 
-## 🚀 How to use
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
-1. Select the **time signature**  
-2. Set the **BPM**  
-3. Choose the **subdivision**  
-4. Click **Start**  
-5. The background starts animating and the sphere pulses with the beat  
-6. Click **Stop** to return to static mode  
+No frameworks or external libraries were used.
 
----
 
-## 🛠 Technologies
+## 📁 Running the Project Locally
 
-- **HTML5**  
-- **CSS3**  
-- **Vanilla JavaScript**
+Clone the repository:
 
-No frameworks, no external libraries. Lightweight and fast.
+```bash
+git clone https://github.com/KamSeara/metronome.git
+```
 
----
+Then simply open `index.html` in your browser — no build step or dependencies required.
 
-## 📸 Preview
 
-<img width="1875" height="1060" alt="Visual Metronome Preview" src="https://github.com/user-attachments/assets/36c19017-efc4-438f-be46-bca1046d324e" />
+## 📌 Project Status
 
----
+✅ **Completed** — future improvements and additional features may be added over time.
 
-## 🌐 Live version
 
-Access it here:  
-👉 https://kamseara.github.io/metronome/
+## 🤝 Contributing
 
----
+This project was built for learning and practice purposes.
 
-## ❤️ Author
+Suggestions, improvements and contributions are always welcome. Feel free to open an issue or submit a pull request.
 
-Project developed with care by  
-**Kamilly Seara**
+
+## 👩‍💻 Author
+
+Developed by **Kamilly Seara**
